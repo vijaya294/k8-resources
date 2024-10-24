@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: nginx-config
+data:
+  name: Vijaya
+  profession: Devops Engineer
+  experience: 3 years
